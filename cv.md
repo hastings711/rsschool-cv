@@ -7,3 +7,5 @@
 (+996) 553 555 224
 [Telegram] k_esengulov
 
+# Skills 
+HTML5/CSS3, basic level of Javascript.
